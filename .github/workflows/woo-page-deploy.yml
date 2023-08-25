@@ -11,7 +11,7 @@ env: # Change these to your preferences any image url can also be a base encoded
   JUMBOTRON_IMAGE_URL: "https://www.dinkelland.nl/sites/all/themes/dinkelland/dist/assets/img/header_dinkelland.jpg"
   FOOTER_LOGO_URL: "https://www.dinkelland.nl/sites/all/themes/dinkelland/logo.svg"
   FOOTER_LOGO_HREF: "https://dinkelland.nl/"
-  OIDN_NUMBER: ""
+  OIDN_NUMBER: " "
 
 on:
   push:
