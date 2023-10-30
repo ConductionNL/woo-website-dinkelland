@@ -15,7 +15,7 @@ env: # Change these to your preferences any image url can also be a base encoded
   JUMBOTRON_IMAGE_URL: "https://www.dinkelland.nl/sites/all/themes/dinkelland/dist/assets/img/header_dinkelland.jpg"
   FOOTER_LOGO_URL: "https://www.dinkelland.nl/sites/all/themes/dinkelland/logo.svg"
   FOOTER_LOGO_HREF: "https://dinkelland.nl/"
-  FOOTER_CONTENT: '[{"title":"Algemeen","items":[{"label":"Website","value":"www.dinkelland.nl","link":"https://www.dinkelland.nl/"},{"label":"Privacy","value":"Privacy","link":"https://www.dinkelland.nl/"},{"label":"Toegankelijkheid","value":"Toegangelijkheid","link":"https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/"},{"label":"Over deze website","value":"Over deze website","link":"https://www.dinkelland.nl/"}]}]'
+  FOOTER_CONTENT: '[{"title":"Algemeen","items":[{"label":"Website","value":"www.dinkelland.nl","link":"https://www.dinkelland.nl/"},{"label":"Privacy","value":"Privacy","link":"https://www.dinkelland.nl/"},{"label":"Toegankelijkheid","value":"Toegankelijkheid","link":"https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/"},{"label":"Over deze website","value":"Over deze website","link":"https://www.dinkelland.nl/"}]}]'
   OIDN_NUMBER: "00000001809245206000"
 
 on:
