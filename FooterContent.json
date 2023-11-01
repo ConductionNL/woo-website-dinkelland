@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Algemeen",
+        "items": [
+            {
+                "label": "Website",
+                "value": "www.dinkelland.nl",
+                "link": "https://www.dinkelland.nl/"
+            },
+            {
+             
+                "value": "Privacy",
+                "link": "https://www.dinkelland.nl/"
+            },
+            {
+               
+                "value": "Toegankelijkheid",
+                "link": "https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/"
+            },
+            {
+               
+                "value": "Over deze website",
+                "link": "https://www.dinkelland.nl/"
+            }
+        ]
+    }
+]
